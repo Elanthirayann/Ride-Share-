@@ -5,4 +5,3 @@ elan
 nara
 dhiva
 git
-sunni
